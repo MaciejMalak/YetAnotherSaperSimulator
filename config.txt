@@ -1,0 +1,7 @@
+# YASS Config
+
+# Width
+Width = 5
+
+#Height
+Heigth = 5
